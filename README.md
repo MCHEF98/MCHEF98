@@ -21,6 +21,24 @@ My research interests lie at the intersection of **bioinformatics, genomics, hum
 
 ## 💻 Technical Skills
 
+### Programming Languages
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Bioinformatics Tools
+
+![PLINK](https://img.shields.io/badge/PLINK-Bioinformatics-blue?style=for-the-badge)
+![TwoSampleMR](https://img.shields.io/badge/TwoSampleMR-MR-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Research Areas
+
+![GWAS](https://img.shields.io/badge/GWAS-Genetics-purple?style=for-the-badge)
+![Genomics](https://img.shields.io/badge/Genomics-Research-teal?style=for-the-badge)
+![NGS](https://img.shields.io/badge/NGS-Sequencing-orange?style=for-the-badge)
+
 **Programming and Data Analysis**
 - R
 - Python
